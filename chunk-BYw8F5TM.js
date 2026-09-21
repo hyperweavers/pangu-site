@@ -1,0 +1,2 @@
+import{At as Vc,g as D,lt as QI}from"./chunk-ByP9w2Ba.js";import{t as e}from"./chunk-DOSTOY8R.js";import{_ as qe}from"./chunk-CTLZx9Tg.js";var u=(()=>{class t{constructor(){this.locale=D(Vc)}transform(r,e$1=`1.2-2`){return r==null||r===``?e.placeholders.NO_VALUE:typeof r==`number`&&!isNaN(r)?new qe(this.locale).transform(r,e$1)??e.placeholders.NO_VALUE:String(r)}static{this.ɵfac=function(e){return new(e||t)}}static{this.ɵpipe=QI({name:`valueOrPlaceholder`,type:t,pure:!0})}}return t})();export{u as t};
+//# debugId=50efc06b-7dc2-5dab-bf7c-20eb9af0d83d

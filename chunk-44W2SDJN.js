@@ -1,1 +1,0 @@
-var e;function n(){if(e==null){let o=typeof document<"u"?document.head:null;e=!!(o&&(o.createShadowRoot||o.attachShadow))}return e}function d(o){if(n()){let t=o.getRootNode?o.getRootNode():null;if(typeof ShadowRoot<"u"&&ShadowRoot&&t instanceof ShadowRoot)return t}return null}function a(o){return o.composedPath?o.composedPath()[0]:o.target}export{d as a,a as b};

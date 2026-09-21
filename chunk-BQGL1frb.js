@@ -1,0 +1,2 @@
+import{Er as x,ar as se}from"./chunk-ByP9w2Ba.js";var c=new x(`LOGGER`);var i=(()=>{class e{captureException(r,...o){console.error(`[Exception]`,r,...o)}error(r,...o){console.error(`[Error]`,r,...o)}warn(r,...o){console.warn(`[Warn]`,r,...o)}info(r,...o){console.info(`[Info]`,r,...o)}static{this.ɵfac=function(o){return new(o||e)}}static{this.ɵprov=se({token:e,factory:e.ɵfac})}}return e})();export{i as n,c as t};
+//# debugId=7d4d0a66-0b7d-5bfa-86a5-0b29579cd8b4
